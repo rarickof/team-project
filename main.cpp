@@ -4,12 +4,10 @@
 #include <cmath>
 #include <locale.h>
 
-#include "kasatkin.h"
+
 // === БЛОК ПОДКЛЮЧЕНИЙ: каждый участник добавляет свой заголовочный файл ===
-// #include "ivanov.h"
-// #include "petrov.h"
+#include "kasatkin.h"
 // === КОНЕЦ БЛОКА ПОДКЛЮЧЕНИЙ ===
-const double PI = 3.14159265358979;
 
 using namespace std;
 int main() {
